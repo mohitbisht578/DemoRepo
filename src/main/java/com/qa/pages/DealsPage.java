@@ -10,5 +10,11 @@ public class DealsPage {
 		
 		System.out.println("This is deals Page");
 	}
+	
+	@Test
+	public void dealsPage1() {
+		
+		System.out.println("This is deals Page 1 ");
+	}
 
 }
